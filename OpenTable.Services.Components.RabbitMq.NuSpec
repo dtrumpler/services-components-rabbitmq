@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>1.00</version>
+    <authors>OpenTable</authors>
+    <owners>OpenTable</owners>
+    <id>OpenTable.Services.Components.RabbitMq</id>
+    <title>OpenTable.Services.Components.RabbitMq</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Common Library for Accessing RabbitMq</description>
+    <copyright>Copyright OpenTable 2014</copyright>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Project\bin\release\OpenTable.Services.Components.RabbitMq.dll" target="lib\net40\OpenTable.Services.Components.RabbitMq.dll" />
+  </files>
+</package>
